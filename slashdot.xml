@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/" xmlns:admin="http://webns.net/mvcb/" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0">
+
+<channel rdf:about="http://slashdot.org/">
+<title>Slashdot</title>
+<link>http://slashdot.org/</link>
+<description>News for nerds, stuff that matters</description>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright 1997-2015, Dice. All Rights Reserved. Slashdot is a Dice Holdings, Inc. service</dc:rights>
+<dc:date>2015-04-06T23:40:20+00:00</dc:date>
+<dc:publisher>Dice</dc:publisher>
+<dc:creator>help@slashdot.org</dc:creator>
+<dc:subject>Technology</dc:subject>
+<syn:updateBase>1970-01-01T00:00+00:00</syn:updateBase>
+<syn:updateFrequency>1</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://science.slashdot.org/story/15/04/06/2133247/the-arrival-of-man-made-earthquakes?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://tech.slashdot.org/story/15/04/06/1925216/ubers-hiring-plans-show-outlines-of-self-driving-car-project?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://news.slashdot.org/story/15/04/06/1935212/court-mulls-revealing-secret-government-plan-to-cut-cell-phone-service?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://news.slashdot.org/story/15/04/06/2011250/build-your-own-satellite-for-less-than-30k?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://tech.slashdot.org/story/15/04/06/1921227/thousands-visit-trinity-test-site-for-70th-anniversary-of-first-atomic-blast?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://yro.slashdot.org/story/15/04/06/1923224/judge-allows-divorce-papers-to-be-served-via-facebook?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://hardware.slashdot.org/story/15/04/06/1735244/lg-accidentally-leaks-apple-imac-8k-is-coming-later-this-year?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://it.slashdot.org/story/15/04/06/1713216/the-new-struggles-facing-open-source?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://tech.slashdot.org/story/15/04/06/174246/hyundai-to-release-semi-autonomous-car-this-year?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://linux.slashdot.org/story/15/04/06/1559207/10-years-of-git-an-interview-with-linus-torvalds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://tech.slashdot.org/story/15/04/06/126217/why-is-the-internet-association-rewarding-a-pro-nsa-net-neutrality-opponent?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://games.slashdot.org/story/15/04/06/140232/watching-a-swatting-slowly-unfold?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://tech.slashdot.org/story/15/04/06/1356203/new-smartphone-camera-could-tell-you-what-things-are-made-of?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://yro.slashdot.org/story/15/04/06/1421215/turkey-blocks-twitter-youtube-access-over-image-of-slain-prosecutor?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://news.slashdot.org/story/15/04/06/1143240/hugo-awards-turn-even-more-political?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+ </rdf:Seq>
+</items>
+<image rdf:resource="http://a.fsdn.com/sd/topics/topicslashdot.gif" />
+<textinput rdf:resource="http://slashdot.org/search.pl" />
+<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rdf+xml" href="http://rss.slashdot.org/Slashdot/slashdot" /><feedburner:info uri="slashdot/slashdot" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /></channel>
+<image rdf:about="http://a.fsdn.com/sd/topics/topicslashdot.gif">
+<title>Slashdot</title>
+<url>http://a.fsdn.com/sd/topics/topicslashdot.gif</url>
+<link>http://slashdot.org/</link>
+</image>
+<item rdf:about="http://science.slashdot.org/story/15/04/06/2133247/the-arrival-of-man-made-earthquakes?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>The Arrival of Man-Made Earthquakes</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/4QcOnwGJ7nU/the-arrival-of-man-made-earthquakes</link>
+<description>An anonymous reader writes: The New Yorker has a long investigative report on a recent geological phenomenon: man-made earthquakes. The article describes how scientists painstakingly gathered data on the quakes, and then tried to find ways to communicate the results &amp;mdash; which are quite definitive &amp;mdash; to politicians who often have financial reasons to disbelieve them. Quoting: "Until 2008, Oklahoma experienced an average of one to two earthquakes of 3.0 magnitude or greater each year. (Magnitude-3.0 earthquakes tend to be felt, while smaller earthquakes may be noticed only by scientific equipment or by people close to the epicenter.) In 2009, there were twenty. The next year, there were forty-two. In 2014, there were five hundred and eighty-five, nearly triple the rate of California. In state government, oil money is both invisible and pervasive. In 2013, Mary Fallin, the governor, combined the positions of Secretary of Energy and Secretary of the Environment. Michael Teague, whom she appointed to the position, when asked by the local NPR reporter Joe Wertz whether he believed in climate change, responded that he believed that the climate changed every day. Of the earthquakes, Teague has said that we need to learn more. Fallin's first substantive response came in 2014, when she encouraged Oklahomans to buy earthquake insurance. (However, many earthquake-insurance policies in the state exclude coverage for induced earthquakes.)"&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=The+Arrival+of+Man-Made+Earthquakes%3A+http%3A%2F%2Fbit.ly%2F1MZUtEF"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fscience.slashdot.org%2Fstory%2F15%2F04%2F06%2F2133247%2Fthe-arrival-of-man-made-earthquakes%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://science.slashdot.org/story/15/04/06/2133247/the-arrival-of-man-made-earthquakes?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://science.slashdot.org/story/15/04/06/2133247/the-arrival-of-man-made-earthquakes?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7213125&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="//feeds.feedburner.com/~r/Slashdot/slashdot/~4/4QcOnwGJ7nU" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>Soulskill</dc:creator>
+<dc:date>2015-04-06T23:10:00+00:00</dc:date>
+<dc:subject>earth</dc:subject>
+<slash:department>what's-shakin'</slash:department>
+<slash:section>science</slash:section>
+<slash:comments>17</slash:comments>
+<slash:hit_parade>17,16,8,6,0,0,0</slash:hit_parade>
+<feedburner:origLink>http://science.slashdot.org/story/15/04/06/2133247/the-arrival-of-man-made-earthquakes?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://tech.slashdot.org/story/15/04/06/1925216/ubers-hiring-plans-show-outlines-of-self-driving-car-project?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Uber's Hiring Plans Show Outlines of Self-Driving Car Project</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/DJGugtLavLw/ubers-hiring-plans-show-outlines-of-self-driving-car-project</link>
+<description>itwbennett writes The most interesting people that Uber is now hiring aren't drivers: they're engineers. The mobile ride-hailing app has listed a slew of jobs at its new Advanced Technologies Center in Pittsburgh. In particular, Uber is looking for engineers in the areas of robotics, machine learning, communications, traffic simulation, vehicle testing, and software and hardware development.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Uber's+Hiring+Plans+Show+Outlines+of+Self-Driving+Car+Project%3A+http%3A%2F%2Fbit.ly%2F1CsSv4d"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Ftech.slashdot.org%2Fstory%2F15%2F04%2F06%2F1925216%2Fubers-hiring-plans-show-outlines-of-self-driving-car-project%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://tech.slashdot.org/story/15/04/06/1925216/ubers-hiring-plans-show-outlines-of-self-driving-car-project?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://tech.slashdot.org/story/15/04/06/1925216/ubers-hiring-plans-show-outlines-of-self-driving-car-project?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7212825&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="//feeds.feedburner.com/~r/Slashdot/slashdot/~4/DJGugtLavLw" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>samzenpus</dc:creator>
+<dc:date>2015-04-06T22:28:00+00:00</dc:date>
+<dc:subject>transportation</dc:subject>
+<slash:department>joining-the-club</slash:department>
+<slash:section>technology</slash:section>
+<slash:comments>22</slash:comments>
+<slash:hit_parade>22,22,19,17,5,0,0</slash:hit_parade>
+<feedburner:origLink>http://tech.slashdot.org/story/15/04/06/1925216/ubers-hiring-plans-show-outlines-of-self-driving-car-project?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://news.slashdot.org/story/15/04/06/1935212/court-mulls-revealing-secret-government-plan-to-cut-cell-phone-service?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Court Mulls Revealing Secret Government Plan To Cut Cell Phone Service</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/xc66Oxr1NnM/court-mulls-revealing-secret-government-plan-to-cut-cell-phone-service</link>
+<description>An anonymous reader writes with the latest in the ongoing legal battle over revealing details of Standing Operating Procedure 303, the government's plan to cut mobile phone service during an emergency. "A federal appeals court is asking the Obama administration to explain why the government should be allowed to keep secret its plan to shutter mobile phone service during 'critical emergencies.' The Department of Homeland Security came up with the plan&amp;mdash;known as Standing Operating Procedure 303&amp;mdash;after cellular phones were used to detonate explosives targeting a London public transportation system. SOP 303 is a powerful tool in the digital age, and it spells out a 'unified voluntary process for the orderly shut-down and restoration of wireless services during critical emergencies such as the threat of radio-activated improvised explosive devices.'"&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Court+Mulls+Revealing+Secret+Government+Plan+To+Cut+Cell+Phone+Service%3A+http%3A%2F%2Fbit.ly%2F1DUhOSc"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fnews.slashdot.org%2Fstory%2F15%2F04%2F06%2F1935212%2Fcourt-mulls-revealing-secret-government-plan-to-cut-cell-phone-service%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://news.slashdot.org/story/15/04/06/1935212/court-mulls-revealing-secret-government-plan-to-cut-cell-phone-service?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://news.slashdot.org/story/15/04/06/1935212/court-mulls-revealing-secret-government-plan-to-cut-cell-phone-service?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7212857&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="//feeds.feedburner.com/~r/Slashdot/slashdot/~4/xc66Oxr1NnM" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>samzenpus</dc:creator>
+<dc:date>2015-04-06T21:46:00+00:00</dc:date>
+<dc:subject>usa</dc:subject>
+<slash:department>I-don't-want-to-talk-about-it</slash:department>
+<slash:section>news</slash:section>
+<slash:comments>85</slash:comments>
+<slash:hit_parade>85,85,61,46,14,2,1</slash:hit_parade>
+<feedburner:origLink>http://news.slashdot.org/story/15/04/06/1935212/court-mulls-revealing-secret-government-plan-to-cut-cell-phone-service?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://news.slashdot.org/story/15/04/06/2011250/build-your-own-satellite-for-less-than-30k?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Build Your Own Satellite For Less Than $30K</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/Ax9SvR680i0/build-your-own-satellite-for-less-than-30k</link>
+<description>schwit1 writes An industry of new cubesat builders can now build satellites for anyone for any reason for very little money. From the article: "The miniaturization of technology allows people to do more with less hardware, said Chad Anderson, the managing director of Space Angels Network, an investment house specializing in the space industry. That industry, he said, was worth $300bn (&amp;pound;200bn) last year. Constellations of smaller satellites, like those suggested as tracking devices for planes over oceans, are now a possibility. 'The launch costs are coming down and people leveraging today's technology are able to do more with less and launch less mass to orbit. The price point has come down to where start-ups and entrepreneurs can really make an impact on the scene for the first time,' he said." When the first tiny satellite launch companies arrive, expect this industry to blossom at an astonishing rate.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Build+Your+Own+Satellite+For+Less+Than+%2430K%3A+http%3A%2F%2Fbit.ly%2F1yPMbDB"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fnews.slashdot.org%2Fstory%2F15%2F04%2F06%2F2011250%2Fbuild-your-own-satellite-for-less-than-30k%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://news.slashdot.org/story/15/04/06/2011250/build-your-own-satellite-for-less-than-30k?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://news.slashdot.org/story/15/04/06/2011250/build-your-own-satellite-for-less-than-30k?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7212963&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="//feeds.feedburner.com/~r/Slashdot/slashdot/~4/Ax9SvR680i0" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>samzenpus</dc:creator>
+<dc:date>2015-04-06T21:03:00+00:00</dc:date>
+<dc:subject>money</dc:subject>
+<slash:department>on-the-cheap</slash:department>
+<slash:section>news</slash:section>
+<slash:comments>28</slash:comments>
+<slash:hit_parade>28,28,16,11,1,1,1</slash:hit_parade>
+<feedburner:origLink>http://news.slashdot.org/story/15/04/06/2011250/build-your-own-satellite-for-less-than-30k?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://tech.slashdot.org/story/15/04/06/1921227/thousands-visit-trinity-test-site-for-70th-anniversary-of-first-atomic-blast?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Thousands Visit Trinity Test Site For 70th Anniversary of First Atomic Blast</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/B2VHlzZTQvA/thousands-visit-trinity-test-site-for-70th-anniversary-of-first-atomic-blast</link>
+<description>HughPickens.com writes The NYT reports that thousands of visitors converged Saturday on the Trinity Test Site in New Mexico where the first nuclear bomb was detonated nearly 70 years ago. Many posed for pictures near an obelisk marking the exact location where the bomb went off and were also able to see a steel shell that was created as a backup plan to keep plutonium from spreading during the explosion. "It brought a quick end to World War II, and it ushered in the atomic age," Erin Dorrance said. "So out here in the middle of nowhere New Mexico changed the world 70 years ago." Pete Rosada, a Marine Corps veteran, drove with another military veteran from San Diego to make the tour. Rosada said he previously visited Hiroshima and Nagasaki, the Japanese targets of atomic bombs during World War II after the test at the Trinity Site. "This completes the loop," said Rosado. 
+
+Tourists who joined a vehicle caravan out to the site at a school in Tularosa were greeted by demonstrators from the Tularosa Basin Downwinders who came to protest the 70th anniversary tour. The Downwinders is a grass-roots group that has set out to bring public awareness about the negative impacts of the detonation of the bomb. Henry Herrera was 11 years old when he got up to help his father with the car on that fateful July morning in 1945 and says the dust from the blast scattered all over Tularosa, remembering how his mother had to wash clothes twice that day due to the fallout dusting the family's clothes line. "I stop to think I'm one lucky, fortunate guy because I'm here and so many are dead," says Herrera. "Gobs of people from around here died and nobody knew what they died of, they just went to bed and never woke up." Albuquerque resident Gene Glasgow, 69, visited the Trinity Site for the first time with relatives from Arizona. Born and raised in New Mexico, he said he'd grown curious through talking to people who witnessed the explosion, including one man who was laying trap line in the mountains at the time. "He thought the end of the world had come."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Thousands+Visit+Trinity+Test+Site+For+70th+Anniversary+of+First+Atomic+Blast%3A+http%3A%2F%2Fbit.ly%2F1y9iMtd"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Ftech.slashdot.org%2Fstory%2F15%2F04%2F06%2F1921227%2Fthousands-visit-trinity-test-site-for-70th-anniversary-of-first-atomic-blast%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://tech.slashdot.org/story/15/04/06/1921227/thousands-visit-trinity-test-site-for-70th-anniversary-of-first-atomic-blast?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://tech.slashdot.org/story/15/04/06/1921227/thousands-visit-trinity-test-site-for-70th-anniversary-of-first-atomic-blast?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7212813&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="//feeds.feedburner.com/~r/Slashdot/slashdot/~4/B2VHlzZTQvA" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>samzenpus</dc:creator>
+<dc:date>2015-04-06T20:19:00+00:00</dc:date>
+<dc:subject>military</dc:subject>
+<slash:department>big-boom-and-fun</slash:department>
+<slash:section>technology</slash:section>
+<slash:comments>80</slash:comments>
+<slash:hit_parade>80,78,48,39,6,5,1</slash:hit_parade>
+<feedburner:origLink>http://tech.slashdot.org/story/15/04/06/1921227/thousands-visit-trinity-test-site-for-70th-anniversary-of-first-atomic-blast?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://yro.slashdot.org/story/15/04/06/1923224/judge-allows-divorce-papers-to-be-served-via-facebook?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Judge Allows Divorce Papers To Be Served Via Facebook</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/J8scJp5wsPw/judge-allows-divorce-papers-to-be-served-via-facebook</link>
+<description>An anonymous reader writes Want to divorce your husband or wife but can't give them the papers in person? Just use Facebook. No, apparently this isn't a late April Fools' joke. The New York Daily News reports Manhattan Supreme Court Justice Matthew Cooper has allowed 26-year-old Ellanora Baidoo to serve her husband Victor Sena Blood-Dzraku divorce papers via a Facebook message. In fact, Baidoo won't even be the one sending the message. Her lawyer has been granted permission to message Blood-Dzraku using her account. "This transmittal shall be repeated by plaintiff's attorney to defendant once a week for three consecutive weeks or until acknowledged," the ruling states.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Judge+Allows+Divorce+Papers+To+Be+Served+Via+Facebook%3A+http%3A%2F%2Fbit.ly%2F1FgBhsQ"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fyro.slashdot.org%2Fstory%2F15%2F04%2F06%2F1923224%2Fjudge-allows-divorce-papers-to-be-served-via-facebook%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://yro.slashdot.org/story/15/04/06/1923224/judge-allows-divorce-papers-to-be-served-via-facebook?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://yro.slashdot.org/story/15/04/06/1923224/judge-allows-divorce-papers-to-be-served-via-facebook?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7212817&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="//feeds.feedburner.com/~r/Slashdot/slashdot/~4/J8scJp5wsPw" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>samzenpus</dc:creator>
+<dc:date>2015-04-06T20:00:00+00:00</dc:date>
+<dc:subject>facebook</dc:subject>
+<slash:department>I-unfriend-you</slash:department>
+<slash:section>yro</slash:section>
+<slash:comments>67</slash:comments>
+<slash:hit_parade>67,66,49,47,13,7,2</slash:hit_parade>
+<feedburner:origLink>http://yro.slashdot.org/story/15/04/06/1923224/judge-allows-divorce-papers-to-be-served-via-facebook?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://hardware.slashdot.org/story/15/04/06/1735244/lg-accidentally-leaks-apple-imac-8k-is-coming-later-this-year?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>LG Accidentally Leaks Apple iMac 8K Is Coming Later This Year</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/a6l-36IPUlQ/lg-accidentally-leaks-apple-imac-8k-is-coming-later-this-year</link>
+<description>An anonymous reader writes LG accidentally revealed in blog post that Apple is planning to release a 8K iMac later this year. This news comes as a surprise as the leak came from a different company rather than Apple. LG is one of Apple's biggest display partners and has already demonstrated 8K monitors at CES in Las Vegas. They note that the panel boasts 16 times the number of pixels as a standard Full HD screen.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=LG+Accidentally+Leaks+Apple+iMac+8K+Is+Coming+Later+This+Year%3A+http%3A%2F%2Fbit.ly%2F1GZeo1x"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fhardware.slashdot.org%2Fstory%2F15%2F04%2F06%2F1735244%2Flg-accidentally-leaks-apple-imac-8k-is-coming-later-this-year%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://hardware.slashdot.org/story/15/04/06/1735244/lg-accidentally-leaks-apple-imac-8k-is-coming-later-this-year?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://hardware.slashdot.org/story/15/04/06/1735244/lg-accidentally-leaks-apple-imac-8k-is-coming-later-this-year?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7212373&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="//feeds.feedburner.com/~r/Slashdot/slashdot/~4/a6l-36IPUlQ" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>samzenpus</dc:creator>
+<dc:date>2015-04-06T19:36:00+00:00</dc:date>
+<dc:subject>displays</dc:subject>
+<slash:department>going-big</slash:department>
+<slash:section>hardware</slash:section>
+<slash:comments>162</slash:comments>
+<slash:hit_parade>162,162,100,84,20,10,7</slash:hit_parade>
+<feedburner:origLink>http://hardware.slashdot.org/story/15/04/06/1735244/lg-accidentally-leaks-apple-imac-8k-is-coming-later-this-year?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://it.slashdot.org/story/15/04/06/1713216/the-new-struggles-facing-open-source?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>The New Struggles Facing Open Source</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/Ufggt8EbVqM/the-new-struggles-facing-open-source</link>
+<description>An anonymous reader writes in with this story about the open source movement's contentious beginnings and the points of trouble it faces today. "The early days of open source were fraught with religious animosities we feared would tear apart the movement: free software fundamentalists haggling with open source pragmatists over how many Apache licenses would fit on the head of a pin. But once commercial interests moved in to plunder for profit, the challenges faced by open source pivoted toward issues of control. While those fractious battles are largely over, giving way to an era of relative peace, this seeming tranquility may prove more dangerous to the open source movement than squabbling ever did. Indeed, underneath this superficial calm, plenty of tensions simmer. Some are the legacy of the past decade of open source warfare. Others, however, break new ground and arguably threaten open source far more than the GPL-vs.-Apache battle ever did."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=The+New+Struggles+Facing+Open+Source%3A+http%3A%2F%2Fbit.ly%2F1FgrBi2"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fit.slashdot.org%2Fstory%2F15%2F04%2F06%2F1713216%2Fthe-new-struggles-facing-open-source%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://it.slashdot.org/story/15/04/06/1713216/the-new-struggles-facing-open-source?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://it.slashdot.org/story/15/04/06/1713216/the-new-struggles-facing-open-source?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7212319&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="//feeds.feedburner.com/~r/Slashdot/slashdot/~4/Ufggt8EbVqM" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>samzenpus</dc:creator>
+<dc:date>2015-04-06T18:51:00+00:00</dc:date>
+<dc:subject>business</dc:subject>
+<slash:department>it's-not-easy</slash:department>
+<slash:section>it</slash:section>
+<slash:comments>91</slash:comments>
+<slash:hit_parade>91,89,62,51,15,7,3</slash:hit_parade>
+<feedburner:origLink>http://it.slashdot.org/story/15/04/06/1713216/the-new-struggles-facing-open-source?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://tech.slashdot.org/story/15/04/06/174246/hyundai-to-release-semi-autonomous-car-this-year?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Hyundai To Release "Semi-Autonomous" Car This Year</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/r6U3vuUuchM/hyundai-to-release-semi-autonomous-car-this-year</link>
+<description>jfruh writes While self-driving cars from Google and others remain in the prototype stage, Korean carmaker Hyundai intends to release a premium sedan called the Equus this year that includes self-driving features. While a car's ability to navigate complex urban environments on its own is still a ways off, the Equus will allow the driver to take their hands off the wheel and feet off the brakes during highway driving.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Hyundai+To+Release+%22Semi-Autonomous%22+Car+This+Year%3A+http%3A%2F%2Fbit.ly%2F1yPs602"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Ftech.slashdot.org%2Fstory%2F15%2F04%2F06%2F174246%2Fhyundai-to-release-semi-autonomous-car-this-year%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://tech.slashdot.org/story/15/04/06/174246/hyundai-to-release-semi-autonomous-car-this-year?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://tech.slashdot.org/story/15/04/06/174246/hyundai-to-release-semi-autonomous-car-this-year?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7212279&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="//feeds.feedburner.com/~r/Slashdot/slashdot/~4/r6U3vuUuchM" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>samzenpus</dc:creator>
+<dc:date>2015-04-06T18:08:00+00:00</dc:date>
+<dc:subject>transportation</dc:subject>
+<slash:department>joinging-the-club</slash:department>
+<slash:section>technology</slash:section>
+<slash:comments>83</slash:comments>
+<slash:hit_parade>83,83,62,53,17,7,1</slash:hit_parade>
+<feedburner:origLink>http://tech.slashdot.org/story/15/04/06/174246/hyundai-to-release-semi-autonomous-car-this-year?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://linux.slashdot.org/story/15/04/06/1559207/10-years-of-git-an-interview-with-linus-torvalds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>10 Years of Git: An Interview With Linus Torvalds</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/NRFoV3cTc9Y/10-years-of-git-an-interview-with-linus-torvalds</link>
+<description>LibbyMC writes Git will celebrate its 10-year anniversary tomorrow. To celebrate this milestone, Linus shares the behind-the-scenes story of Git and tells us what he thinks of the project and its impact on software development. From the article: "Ten years ago this week, the Linux kernel community faced a daunting challenge: They could no longer use their revision control system BitKeeper and no other Software Configuration Management (SCMs) met their needs for a distributed system. Linus Torvalds, the creator of Linux, took the challenge into his own hands and disappeared over the weekend to emerge the following week with Git. Today Git is used for thousands of projects and has ushered in a new level of social coding among programmers."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=10+Years+of+Git%3A+An+Interview+With+Linus+Torvalds%3A+http%3A%2F%2Fbit.ly%2F1PcBrtk"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Flinux.slashdot.org%2Fstory%2F15%2F04%2F06%2F1559207%2F10-years-of-git-an-interview-with-linus-torvalds%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://linux.slashdot.org/story/15/04/06/1559207/10-years-of-git-an-interview-with-linus-torvalds?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://linux.slashdot.org/story/15/04/06/1559207/10-years-of-git-an-interview-with-linus-torvalds?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7212073&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="//feeds.feedburner.com/~r/Slashdot/slashdot/~4/NRFoV3cTc9Y" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>samzenpus</dc:creator>
+<dc:date>2015-04-06T17:24:00+00:00</dc:date>
+<dc:subject>opensource</dc:subject>
+<slash:department>straight-from-the-horses-mouth</slash:department>
+<slash:section>linux</slash:section>
+<slash:comments>121</slash:comments>
+<slash:hit_parade>121,115,73,58,14,11,5</slash:hit_parade>
+<feedburner:origLink>http://linux.slashdot.org/story/15/04/06/1559207/10-years-of-git-an-interview-with-linus-torvalds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://tech.slashdot.org/story/15/04/06/126217/why-is-the-internet-association-rewarding-a-pro-nsa-net-neutrality-opponent?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Why Is the Internet Association Rewarding a Pro-NSA Net-Neutrality Opponent?</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/slycUjNCl5U/why-is-the-internet-association-rewarding-a-pro-nsa-net-neutrality-opponent</link>
+<description>First time accepted submitter erier2003 writes The decision to give a major award to House Majority Leader Kevin McCarthy is curious given McCarthy's many questionable stances on Internet-freedom issues. For one thing, the California congressman is an avowed opponent of net neutrality. In May 2014, as the Federal Communications Commission debated new net neutrality rules, McCarthy&amp;mdash;then the House Majority Whip, the chamber's third-highest-ranking member&amp;mdash;signed a House GOP letter to the FCC warning that Title II regulation represented "a counterproductive effort to even further regulate the Internet."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Why+Is+the+Internet+Association+Rewarding+a+Pro-NSA+Net-Neutrality+Opponent%3F%3A+http%3A%2F%2Fbit.ly%2F1aaMToQ"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Ftech.slashdot.org%2Fstory%2F15%2F04%2F06%2F126217%2Fwhy-is-the-internet-association-rewarding-a-pro-nsa-net-neutrality-opponent%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://tech.slashdot.org/story/15/04/06/126217/why-is-the-internet-association-rewarding-a-pro-nsa-net-neutrality-opponent?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://tech.slashdot.org/story/15/04/06/126217/why-is-the-internet-association-rewarding-a-pro-nsa-net-neutrality-opponent?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7210875&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="//feeds.feedburner.com/~r/Slashdot/slashdot/~4/slycUjNCl5U" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>samzenpus</dc:creator>
+<dc:date>2015-04-06T16:42:00+00:00</dc:date>
+<dc:subject>internet</dc:subject>
+<slash:department>keep-your-enemies-closer</slash:department>
+<slash:section>technology</slash:section>
+<slash:comments>145</slash:comments>
+<slash:hit_parade>145,142,103,89,21,5,3</slash:hit_parade>
+<feedburner:origLink>http://tech.slashdot.org/story/15/04/06/126217/why-is-the-internet-association-rewarding-a-pro-nsa-net-neutrality-opponent?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://games.slashdot.org/story/15/04/06/140232/watching-a-swatting-slowly-unfold?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Watching a "Swatting" Slowly Unfold</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/BBM4nZ9wCPA/watching-a-swatting-slowly-unfold</link>
+<description>netbuzz writes That online gamers have been victimized has unfortunately allowed us to see what "swatting" looks like from the perspective of the target: terrifying and potentially deadly. A similar type of criminally unnecessary SWAT scene played out Saturday night when a caller to police in Hopkinton, Mass., claimed to be holed up in the town's closed public library with two hostages and a bomb. The library stands within eyesight of the starting line for the Boston Marathon. An editor for Network World, there by happenstance, watched for two hours, and, while it was a hoax and no one was hurt, his account highlights the disruption and wastefulness these crimes inflict.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Watching+a+%22Swatting%22+Slowly+Unfold%3A+http%3A%2F%2Fbit.ly%2F1FvQbhj"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fgames.slashdot.org%2Fstory%2F15%2F04%2F06%2F140232%2Fwatching-a-swatting-slowly-unfold%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://games.slashdot.org/story/15/04/06/140232/watching-a-swatting-slowly-unfold?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://games.slashdot.org/story/15/04/06/140232/watching-a-swatting-slowly-unfold?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7211567&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="//feeds.feedburner.com/~r/Slashdot/slashdot/~4/BBM4nZ9wCPA" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>samzenpus</dc:creator>
+<dc:date>2015-04-06T15:57:00+00:00</dc:date>
+<dc:subject>crime</dc:subject>
+<slash:department>in-gory-detail</slash:department>
+<slash:section>games</slash:section>
+<slash:comments>195</slash:comments>
+<slash:hit_parade>195,191,139,119,38,24,12</slash:hit_parade>
+<feedburner:origLink>http://games.slashdot.org/story/15/04/06/140232/watching-a-swatting-slowly-unfold?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://tech.slashdot.org/story/15/04/06/1356203/new-smartphone-camera-could-tell-you-what-things-are-made-of?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>New Smartphone Camera Could Tell You What Things Are Made of</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/UaNOLQ5matY/new-smartphone-camera-could-tell-you-what-things-are-made-of</link>
+<description>Zothecula writes How would you like to be able to know the chemical composition of something, just by taking a snapshot or video of it with your smartphone? You may eventually be able to, thanks to a compact hyperspectral imaging camera being developed at Tel Aviv University. "Hyperspectral imaging involves scanning light spectra not visible to the human eye, in order to identify the unique electromagnetic 'fingerprints' of various substances and processes. While this can already be done with larger cameras, a team led by Tel Aviv's Prof. David Mendlovic is developing a much smaller optical component that could conceivably be built into a smartphone. It utilizes MEMS (microelectromechanical systems) technology, and is reportedly 'suitable for mass production and compatible with standard smartphone camera designs.'"&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=New+Smartphone+Camera+Could+Tell+You+What+Things+Are+Made+of%3A+http%3A%2F%2Fbit.ly%2F1PcjNG2"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Ftech.slashdot.org%2Fstory%2F15%2F04%2F06%2F1356203%2Fnew-smartphone-camera-could-tell-you-what-things-are-made-of%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://tech.slashdot.org/story/15/04/06/1356203/new-smartphone-camera-could-tell-you-what-things-are-made-of?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://tech.slashdot.org/story/15/04/06/1356203/new-smartphone-camera-could-tell-you-what-things-are-made-of?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7211537&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="//feeds.feedburner.com/~r/Slashdot/slashdot/~4/UaNOLQ5matY" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>samzenpus</dc:creator>
+<dc:date>2015-04-06T15:13:00+00:00</dc:date>
+<dc:subject>technology</dc:subject>
+<slash:department>scan-me</slash:department>
+<slash:section>technology</slash:section>
+<slash:comments>69</slash:comments>
+<slash:hit_parade>69,68,46,40,12,2,1</slash:hit_parade>
+<feedburner:origLink>http://tech.slashdot.org/story/15/04/06/1356203/new-smartphone-camera-could-tell-you-what-things-are-made-of?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://yro.slashdot.org/story/15/04/06/1421215/turkey-blocks-twitter-youtube-access-over-image-of-slain-prosecutor?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Turkey Blocks Twitter, YouTube Access Over Image of Slain Prosecutor</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/xXzyxkJvKew/turkey-blocks-twitter-youtube-access-over-image-of-slain-prosecutor</link>
+<description>jaa101 writes ABC (Australia) reports Turkey has blocked access to Twitter and YouTube, over the publication of photographs of an Istanbul prosecutor held at gunpoint by far-left militants hours before he was killed in a shootout last week. From the article: "Presidential spokesman Ibrahim Kalin said a prosecutor had sought the block on access to social media sites because some media organisations had acted 'as if they were spreading terrorist propaganda' in sharing the images. 'This has to do with the publishing of the prosecutor's picture. What happened in the aftermath [of the prosecutor's killing] is as grim as the incident itself,' said presidential spokesman Ibrahim Kalin."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Turkey+Blocks+Twitter%2C+YouTube+Access+Over+Image+of+Slain+Prosecutor%3A+http%3A%2F%2Fbit.ly%2F1Jflhel"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fyro.slashdot.org%2Fstory%2F15%2F04%2F06%2F1421215%2Fturkey-blocks-twitter-youtube-access-over-image-of-slain-prosecutor%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://yro.slashdot.org/story/15/04/06/1421215/turkey-blocks-twitter-youtube-access-over-image-of-slain-prosecutor?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://yro.slashdot.org/story/15/04/06/1421215/turkey-blocks-twitter-youtube-access-over-image-of-slain-prosecutor?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7211657&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="//feeds.feedburner.com/~r/Slashdot/slashdot/~4/xXzyxkJvKew" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>samzenpus</dc:creator>
+<dc:date>2015-04-06T14:29:00+00:00</dc:date>
+<dc:subject>censorship</dc:subject>
+<slash:department>no-likes-for-you</slash:department>
+<slash:section>yro</slash:section>
+<slash:comments>62</slash:comments>
+<slash:hit_parade>62,60,32,20,8,6,3</slash:hit_parade>
+<feedburner:origLink>http://yro.slashdot.org/story/15/04/06/1421215/turkey-blocks-twitter-youtube-access-over-image-of-slain-prosecutor?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://news.slashdot.org/story/15/04/06/1143240/hugo-awards-turn-even-more-political?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Hugo Awards Turn (Even More) Political</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/p36rNnMBI1Q/hugo-awards-turn-even-more-political</link>
+<description>An anonymous reader writes Last year, the Hugo Awards went to mostly minorities and women. In response, a fan group decided to fight back against what they saw as a liberal attack on their medium. It appears that they have succeeded, as the 2015 nominees are predominantly chosen by a group called "Sad Puppies. Now a counter-counter group is trying to ensure that no one wins any Hugo awards in any category except Best Novel.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Hugo+Awards+Turn+(Even+More)+Political%3A+http%3A%2F%2Fbit.ly%2F1GDhwQk"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fnews.slashdot.org%2Fstory%2F15%2F04%2F06%2F1143240%2Fhugo-awards-turn-even-more-political%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://news.slashdot.org/story/15/04/06/1143240/hugo-awards-turn-even-more-political?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://news.slashdot.org/story/15/04/06/1143240/hugo-awards-turn-even-more-political?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7210721&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="//feeds.feedburner.com/~r/Slashdot/slashdot/~4/p36rNnMBI1Q" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>samzenpus</dc:creator>
+<dc:date>2015-04-06T13:44:00+00:00</dc:date>
+<dc:subject>books</dc:subject>
+<slash:department>can't-we-all-just-get-along?</slash:department>
+<slash:section>news</slash:section>
+<slash:comments>397</slash:comments>
+<slash:hit_parade>397,385,258,212,47,22,14</slash:hit_parade>
+<feedburner:origLink>http://news.slashdot.org/story/15/04/06/1143240/hugo-awards-turn-even-more-political?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<textinput rdf:about="http://slashdot.org/search.pl">
+<title>Search Slashdot</title>
+<description>Search Slashdot stories</description>
+<name>query</name>
+<link>http://slashdot.org/search.pl</link>
+</textinput>
+</rdf:RDF>
